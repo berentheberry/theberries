@@ -13,4 +13,4 @@
 
 #### Have fun! *- The Berries*
 
-<a id="Join our Discord!">https://discord.gg/NMehzBEYQF</>
+<a id="Join our Discord!">https://discord.gg/NMehzBEYQF
