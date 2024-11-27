@@ -10,4 +10,4 @@
 
 #### Have fun! *- The Berries*
 
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/mordhau</>
+<a id="Join our discord:">https://discord.gg/NMehzBEYQF</>
