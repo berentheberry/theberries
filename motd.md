@@ -6,8 +6,8 @@
 2) Griefing is not allowed. Bear traps, area-denial tools (bombs) and the toolbox have been disabled.
 3) Spawn-Camping is not allowed.
 4) Team harassment is not permitted. The server may automatically kick a player who has reached a certain number of teamkills.
-5) Toxicity, in any form, is not permitted. Pettiness has no place here.
-6) 
+5) Toxicity, in any form, is not permitted. Pettiness has no place here.  
+ 
 #### Have fun! *- The Berries*  
 
 <a id="Join our discord - https://discord.gg/NMehzBEYQF">https://discord.gg/NMehzBEYQF</>
